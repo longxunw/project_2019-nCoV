@@ -1,0 +1,5 @@
+,date,country,countryCode,province,provinceCode,city,cityCode,confirmed,suspected,cured,dead
+104,2020-01-22,日本,JP,,,,,1,0,0,0
+105,2020-01-22,韩国,KR,,,,,1,0,0,0
+106,2020-01-22,泰国,TH,,,,,3,0,0,0
+107,2020-01-22,美国,US,,,,,1,0,0,0

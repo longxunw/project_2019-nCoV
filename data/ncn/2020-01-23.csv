@@ -1,0 +1,7 @@
+,date,country,countryCode,province,provinceCode,city,cityCode,confirmed,suspected,cured,dead
+174,2020-01-23,日本,JP,,,,,1,0,1,0
+175,2020-01-23,韩国,KR,,,,,1,0,0,0
+176,2020-01-23,新加坡,SG,,,,,1,0,0,0
+177,2020-01-23,泰国,TH,,,,,3,0,2,0
+178,2020-01-23,美国,US,,,,,1,0,0,0
+179,2020-01-23,越南,VN,,,,,2,0,0,0

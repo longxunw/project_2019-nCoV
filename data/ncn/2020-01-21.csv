@@ -1,0 +1,4 @@
+,date,country,countryCode,province,provinceCode,city,cityCode,confirmed,suspected,cured,dead
+54,2020-01-21,日本,JP,,,,,1,0,0,0
+55,2020-01-21,韩国,KR,,,,,1,0,0,0
+56,2020-01-21,泰国,TH,,,,,3,0,0,0
