@@ -1,0 +1,4 @@
+,date,country,countryCode,province,provinceCode,city,cityCode,confirmed,suspected,cured,dead
+0,2019-12-01,中国,CN,,,,,1,0,0,0
+1,2019-12-01,中国,CN,湖北省,420000.0,,,1,0,0,0
+2,2019-12-01,中国,CN,湖北省,420000.0,武汉市,420100.0,1,0,0,0
